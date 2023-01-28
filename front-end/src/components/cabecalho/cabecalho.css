@@ -1,0 +1,18 @@
+.inicio{
+    background-color: #F3B202;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.tituloInicial {
+    padding: 1rem;
+}
+
+.seta{
+    font-size: 40px;
+}

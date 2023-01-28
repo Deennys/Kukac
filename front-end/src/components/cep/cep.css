@@ -1,0 +1,11 @@
+.cep {
+    height: 100vh;
+    background-image: url(./../../img/cep.avif);
+    background-repeat: repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    margin-bottom: 5px;
+}

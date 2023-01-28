@@ -1,0 +1,25 @@
+.troco {
+    height: 100vh;
+    background-image: url(./../../img/troco.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    margin-bottom: 5px;
+}
+
+.tituloTroco {
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.containerTroco {
+    display: flex;
+}
+
+.inputTroco {
+    margin: 0 4px;
+}

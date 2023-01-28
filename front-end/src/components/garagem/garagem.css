@@ -1,0 +1,23 @@
+.garagem {
+    height: 100vh;
+    background-image: url(./../../img/garagem.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    margin-bottom: 5px;
+}
+
+.garagemTexto {
+    margin: 4px;
+}
+
+.containerGaragem {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
